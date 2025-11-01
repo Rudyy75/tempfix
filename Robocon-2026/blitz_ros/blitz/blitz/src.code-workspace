@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "mcu_pio",
+			"path": "../../../../blitz_mcu/mcu_pio"
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"/home/rohini/ros2_ws/install/my_srvs_pkg/lib/python3.12/site-packages",
+			"/home/rohini/ros2_ws/install/my_pkg/lib/python3.12/site-packages",
+			"/home/rohini/ros2_ws/install/my_package/lib/python3.12/site-packages",
+			"/opt/ros/jazzy/lib/python3.12/site-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/rohini/ros2_ws/install/my_srvs_pkg/lib/python3.12/site-packages",
+			"/home/rohini/ros2_ws/install/my_pkg/lib/python3.12/site-packages",
+			"/home/rohini/ros2_ws/install/my_package/lib/python3.12/site-packages",
+			"/opt/ros/jazzy/lib/python3.12/site-packages"
+		]
+	}
+}
